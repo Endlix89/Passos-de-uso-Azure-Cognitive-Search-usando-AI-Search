@@ -1,0 +1,1 @@
+# Passos-de-uso-Azure-Cognitive-Search-usando-AI-Search
